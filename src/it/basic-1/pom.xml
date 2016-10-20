@@ -17,7 +17,7 @@
     <relativePath>../common.xml</relativePath>
   </parent>
   <artifactId>basic-1</artifactId>
-  <name>basic-1</name>
+  <name>basic 1</name>
   <packaging>jar</packaging>
   <reporting>
     <excludeDefaults>true</excludeDefaults>
