@@ -1,1 +1,4 @@
 language: groovy
+script: "mvn -Prun-its clean install"
+jdk:
+  - oraclejdk8
